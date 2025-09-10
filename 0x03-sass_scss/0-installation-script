@@ -1,0 +1,11 @@
+# 0-installation-script
+
+# Step 1: Verify Node.js and npm versions
+node -v
+npm -v
+
+# Step 2: Install Sass (latest version) locally in the project
+npm install sass
+
+# Step 3: Verify Sass installation using npx
+npx sass --version
